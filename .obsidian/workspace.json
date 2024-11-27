@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "993b1555b6f95fb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c09b3de1086f6583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26b5ed3f8b60e7e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f002d39e9ff4d2f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "292ac6b84048b085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa2497776417036b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "96062cad4341ff59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rx",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "53a6945af3a62cb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0de06cc679ebc22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b762af7a4cf3658c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7874833fb18b35da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/中级面经.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "中级面经 的反向链接列表"
+            }
+          },
+          {
+            "id": "5a7a426abb40e91d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/中级面经.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "中级面经 的出链列表"
+            }
+          },
+          {
+            "id": "7f016c7907bd6e67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eac04852ea2be3b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b26b5ed3f8b60e7e",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "Linux/Linux 线程同步.md",
+    "Linux/图片/Pasted image 20241127110411.png",
+    "Linux/图片",
+    "算法/算法笔记.md",
+    "Leetcode/659.分割数组为连续子序列.cpp",
+    "算法/Hash.md",
+    "算法/链表.md",
+    "算法/二叉树.md",
+    "未命名.md",
+    "Linux/Linux网络/Pfring.md",
+    "Linux/Linux网络/Linux网络性能监控与调优.md",
+    "Linux/Linux网络/Linux网络收包总览.md",
+    "Linux/Linux网络/Linux网络发包总览.md",
+    "Linux/Linux网络/Linux 网络.md",
+    "lru.md",
+    "Rust/异步编程.md",
+    "Linux/Linux网络/Proactor.md",
+    "Linux/Linux操作系统/系统环境变量.md",
+    "Linux/Linux操作系统/epoll 多路复用.md",
+    "Linux/Linux操作系统/cgroups.md",
+    "Linux/Linux操作系统/性能调优.md",
+    "Linux/Common/Linux 性能相关工具.md",
+    "Linux/Linux操作系统/Linux操作系统.md",
+    "Linux/Linux操作系统/内存分配.md",
+    "Linux/Linux操作系统/进程管理.md",
+    "Linux/Linux操作系统/动态链接库.md",
+    "Linux/Linux网络/Reactor.md",
+    "Linux/Linux网络/TCP.md",
+    "Makefile",
+    "Linux/Linux网络/图片/Pasted image 20241028095731.png",
+    "Linux/Shell",
+    "开源库/图片/Pasted image 20240930144405.png",
+    "开源库/图片/Pasted image 20240930144332.png",
+    "Leetcode/92.反转链表-ii.cpp",
+    "Leetcode/785.判断二分图.cpp",
+    "Linux/Linux网络/图片/Pasted image 20240920161751.png",
+    "Linux/Linux网络/图片/Pasted image 20240920161621.png",
+    "Linux/Linux网络/图片/Pasted image 20240920161523.png",
+    "Linux/Linux网络/图片/Pasted image 20240920161410.png",
+    "Linux/Linux网络/图片/Pasted image 20240920160943.png",
+    "Linux/Linux网络/图片/Pasted image 20240920160913.png",
+    "开源库/图片",
+    "开源库",
+    "Linux/Common",
+    "Linux",
+    "未命名 1.canvas"
+  ]
+}

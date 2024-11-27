@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "1445e404066c4044",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ae77ea7a1943c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ceef9725636a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DPDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b240cd2421d02167",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf8e7589c51130ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a57f26bded4fcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbcd8e298a53a7f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f851db68be210c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09ad96ca2dcd5efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "89ad87e89815c6a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d74da9faf2fc62d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DPDK.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63846458e809c015",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DPDK.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69a0cbb6f3c1ba73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0e1f47498d78f54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DPDK.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "76ceef9725636a96",
+  "lastOpenFiles": [
+    "Linux 网络.md",
+    "Linux 网络相关工具.md",
+    "DPDK.md",
+    "Pasted image 20240910172456.png",
+    "Pasted image 20240910162923.png",
+    "Pasted image 20240910160315.png",
+    "Pasted image 20240910152246.png",
+    "内核完整发包流程.md",
+    "内核完整收包流程.md",
+    "2024-09-10.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "创建链接.md"
+  ]
+}
