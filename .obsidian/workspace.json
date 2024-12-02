@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "算法/二叉树.md",
-                "staged": true
+                "file": "1.md",
+                "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (二叉树)"
+              "title": "Diff View (1)"
             }
           }
         ],
@@ -93,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/中级面经.md",
-                "collapseAll": false,
+                "file": "Linux/Linux操作系统/无锁队列.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +103,17 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "中级面经 的反向链接列表"
+              "title": "无锁队列 的反向链接列表"
+            }
+          },
+          {
+            "id": "eac04852ea2be3b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -112,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Linux操作系统/无锁队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "无锁队列 的出链列表"
             }
           },
           {
@@ -130,16 +141,6 @@
               },
               "icon": "lucide-tags",
               "title": "标签"
-            }
-          },
-          {
-            "id": "eac04852ea2be3b0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "大纲"
             }
           },
           {
@@ -170,18 +171,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b26b5ed3f8b60e7e",
+  "active": "c0cf757884229563",
   "lastOpenFiles": [
+    "1.md",
+    "Linux/Linux操作系统/无锁队列.md",
+    "Linux/Linux操作系统/图片/Pasted image 20241128142003.png",
+    "Linux/Linux操作系统/图片/Pasted image 20241128141952.png",
+    "Linux/Linux操作系统/图片/Pasted image 20241128105250.png",
+    "Linux/Linux操作系统/图片/Pasted image 20241128105239.png",
+    "Linux/Linux操作系统/动态链接库.md",
+    "Linux/Linux操作系统/系统环境变量.md",
+    "Linux/Linux操作系统/图片/Pasted image 20241127173019.png",
+    "Linux/Linux操作系统/图片/Pasted image 20241127173008.png",
+    "Linux/Linux操作系统/图片/Pasted image 20241127172950.png",
+    "Linux/Linux操作系统/图片/Pasted image 20241127172937.png",
+    "Linux/Linux操作系统/图片/Pasted image 20241127172924.png",
+    "Leetcode/test.c",
+    "Linux/Linux操作系统/自旋锁.md",
+    "Linux/Linux操作系统/图片/Pasted image 20241127152250.png",
     "算法/二叉树.md",
     "未命名.canvas",
     "Linux/Linux 线程同步.md",
-    "Linux/图片/Pasted image 20241127110411.png",
     "Linux/图片",
     "算法/算法笔记.md",
     "Leetcode/659.分割数组为连续子序列.cpp",
     "算法/Hash.md",
     "算法/链表.md",
-    "未命名.md",
     "Linux/Linux网络/Pfring.md",
     "Linux/Linux网络/Linux网络性能监控与调优.md",
     "Linux/Linux网络/Linux网络收包总览.md",
@@ -190,7 +205,6 @@
     "lru.md",
     "Rust/异步编程.md",
     "Linux/Linux网络/Proactor.md",
-    "Linux/Linux操作系统/系统环境变量.md",
     "Linux/Linux操作系统/epoll 多路复用.md",
     "Linux/Linux操作系统/cgroups.md",
     "Linux/Linux操作系统/性能调优.md",
@@ -198,26 +212,13 @@
     "Linux/Linux操作系统/Linux操作系统.md",
     "Linux/Linux操作系统/内存分配.md",
     "Linux/Linux操作系统/进程管理.md",
-    "Linux/Linux操作系统/动态链接库.md",
-    "Linux/Linux网络/Reactor.md",
-    "Linux/Linux网络/TCP.md",
     "Makefile",
-    "Linux/Linux网络/图片/Pasted image 20241028095731.png",
     "Linux/Shell",
-    "开源库/图片/Pasted image 20240930144405.png",
-    "开源库/图片/Pasted image 20240930144332.png",
     "Leetcode/92.反转链表-ii.cpp",
     "Leetcode/785.判断二分图.cpp",
-    "Linux/Linux网络/图片/Pasted image 20240920161751.png",
-    "Linux/Linux网络/图片/Pasted image 20240920161621.png",
-    "Linux/Linux网络/图片/Pasted image 20240920161523.png",
-    "Linux/Linux网络/图片/Pasted image 20240920161410.png",
-    "Linux/Linux网络/图片/Pasted image 20240920160943.png",
-    "Linux/Linux网络/图片/Pasted image 20240920160913.png",
     "开源库/图片",
     "开源库",
     "Linux/Common",
-    "Linux",
     "未命名 1.canvas"
   ]
 }
